@@ -1,0 +1,3 @@
+prin("hello world")
+print("Hello evereday")
+print("Hello")
